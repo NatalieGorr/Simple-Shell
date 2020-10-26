@@ -93,11 +93,11 @@ int main(){
 }
 
 
-
+//function prints the current process id number
 void printid(){
     printf("The ID of the current process is  %d\n", getpid());
 }
-
+//function prinyts hello
 void greet(){
     printf("Hello\n");
 
